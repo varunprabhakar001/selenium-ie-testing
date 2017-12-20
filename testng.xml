@@ -1,0 +1,7 @@
+<suite name="Sample suit" verbose="10">
+	<test name="Jenkins">
+		<classes>
+			 <class name="com.sample.NewTest"></class>
+		</classes>
+	</test>
+</suite>
